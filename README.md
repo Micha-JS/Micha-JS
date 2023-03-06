@@ -1,4 +1,14 @@
 ### Hi there 👋
+---
+## you are in the repository of Micha(el)
+---
+I am a Business Computer Scientist with a global and multidisciplinary background. I have a passion for the environment (plants, sea, nature), data and strive to make the world more sustainable using ML and Deep Learning. You can also find me on [LinkedIn](https://www.linkedin.com/in/michajs/).
+
+## Here are my technical skills:
+⋅⋅* Programming: Python, R, SQL
+⋅⋅* Data analysis & visualisation: Numpy, Pandas, Plotly
+⋅⋅* Machine learning & deep learning: Keras, TensorFlow, PyTorch
+
 
 <!--
 **Micha-JS/Micha-JS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
