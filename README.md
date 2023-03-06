@@ -8,7 +8,8 @@ I am a Business Computer Scientist with a global and multidisciplinary backgroun
 * Programming: Python, R, SQL
 * Data Analysis & Visualization: Numpy, Pandas, Plotly
 * Machine Learning & Deep Learning: Keras, TensorFlow, PyTorch
-* Data Acquisition: APIs & Webscraping 
+* Data Acquisition: APIs & Webscraping
+* MLOps: Docker, AWS 
 
 Although ML algorithmes like random forest or UMAP (dimensionality reduction) are interesting, my passion is with CNNs and images. Stay tuned for my next project!
 
