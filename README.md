@@ -7,7 +7,7 @@ I am a Business Computer Scientist with a global and multidisciplinary backgroun
 ### Here are my technical skills:
 * Programming: Python, R, SQL
 * Data Analysis & Visualization: Numpy, Pandas, Plotly
-* Machine Learning & Deep Learning: Keras, TensorFlow, PyTorch
+* Machine Learning & Deep Learning: Scikit-learn, Keras, TensorFlow, PyTorch
 * Data Acquisition: APIs & Webscraping
 * MLOps: Docker, AWS 
 
