@@ -18,6 +18,15 @@ Although ML algorithmes like random forest or UMAP (dimensionality reduction) ar
 👯 I’m looking to collaborate on projects regarding the protection of (rain) forest and decarbonisation.
 
 
+## My favorite business analytics projects:
+
+[Customer segmentation](https://github.com/Rojoser/Credit-Card-Segmentation): A machine learning model to divide a customer base into distinct groups of individuals that have similar characteristics
+
+[Creating Dashboards](https://github.com/Micha-JS/StreamlitApp_InternetUsageViz): Streamlit App as an application to create Dashboards, easily to deploy for everyone to see
+
+
+
+
 <!--
 **Micha-JS/Micha-JS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
