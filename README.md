@@ -20,11 +20,13 @@ Although ML algorithmes like random forest or UMAP (dimensionality reduction) ar
 
 ## My favorite business analytics projects:
 
-[Customer segmentation](https://github.com/Rojoser/Credit-Card-Segmentation): A machine learning model to divide a customer base into distinct groups of individuals that have similar characteristics
+[Customer segmentation](https://github.com/Rojoser/Credit-Card-Segmentation): A machine learning model to divide a customer base into distinct groups of individuals that have similar characteristics.
 
-[Creating Dashboards](https://github.com/Micha-JS/StreamlitApp_InternetUsageViz): Streamlit App as an application to create Dashboards, easily to deploy for everyone to see
+[Creating Dashboards](https://github.com/Micha-JS/StreamlitApp_InternetUsageViz): Streamlit App as an application to create Dashboards, easily to deploy for everyone to see.
 
+## My favorite computer vision project:
 
+[Object detection](https://github.com/Micha-JS/TACO_MJS): A deep learning model to detact trash (multi-label classification).  
 
 
 <!--
